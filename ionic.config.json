@@ -1,0 +1,7 @@
+{
+  "name": "Restaurant Siglo XXI",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
